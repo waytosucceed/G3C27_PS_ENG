@@ -1,0 +1,412 @@
+{
+  "heading": "Writing strategy",
+  "topics": [
+    {
+      "heading": "Writing strategy",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which sentence should come first in a story about going to the beach? <br> <img width='120px' src='./assests/images/question/1.png'>",
+          "options": [
+            {
+              "text": "We built a sandcastle."
+            },
+            {
+              "text": "We packed our beach bags."
+            },
+            {
+              "text": "We swam in the ocean."
+            },
+            {
+              "text": "We drove home tired."
+            }
+          ],
+          "answer": 1,
+          "explanation": "Before going to the beach, you need to pack your bags first. The other activities will follow later."
+        },
+        {
+          "questionNo": 2,
+          "question": "Which sentence should come last in a story about planting a tree? <br> <img width='120px' src='./assests/images/question/2.png'>",
+          "options": [
+            {
+              "text": "Dig a hole in the ground."
+            },
+            {
+              "text": "Put the tree in the hole."
+            },
+            {
+              "text": "Water the tree regularly."
+            },
+            {
+              "text": "Choose a spot for the tree."
+            }
+          ],
+          "answer": 2,
+          "explanation": "After planting the tree, you need to water it regularly to help it grow."
+        },
+        {
+          "questionNo": 3,
+          "question": "What's the correct order for these sentences about making a sandwich? <br> <span style='color: #1E90FF;'>1. Put cheese on the bread.</span> <br> <span style='color: #1E90FF;'>2. Get two slices of bread.</span> <br> <span style='color: #1E90FF;'>3. Cut the sandwich in half.</span> <br> <span style='color: #1E90FF;'>4. Spread butter on the bread.</span>",
+          "options": [
+            {
+              "text": "2, 4, 1, 3"
+            },
+            {
+              "text": "1, 2, 3, 4"
+            },
+            {
+              "text": "4, 3, 2, 1"
+            },
+            {
+              "text": "3, 1, 4, 2"
+            }
+          ],
+          "answer": 0,
+          "explanation": "You start with getting bread, then spread butter, add cheese, and finally cut the sandwich."
+        },
+        {
+          "questionNo": 4,
+          "question": "What is the main idea of this group of sentences?<span style='color: #1E90FF;'> <br> Polar bears have thick fur. <br> Polar bears can swim in icy water. <br> Polar bears hunt seals on ice. <br> Polar bears live in the Arctic.</span>",
+          "options": [
+            {
+              "text": "Polar bears are big animals."
+            },
+            {
+              "text": "Polar bears are adapted to cold places."
+            },
+            {
+              "text": "Polar bears are dangerous."
+            },
+            {
+              "text": "Polar bears like to play."
+            }
+          ],
+          "answer": 1,
+          "explanation": "All the sentences describe how polar bears are suited for living in cold areas. The main idea is the point or message - what an author presents and what a reader takes from a text."
+        },
+        {
+          "questionNo": 5,
+          "question": "What is the main idea of these sentences?<span style='color: #1E90FF;'> <br> We should turn off lights when leaving a room. <br> We can use reusable bags for shopping. <br> We should recycle paper and plastic.</span>",
+          "options": [
+            {
+              "text": "We should save money."
+            },
+            {
+              "text": "We should help the environment."
+            },
+            {
+              "text": "We should be kind to others."
+            },
+            {
+              "text": "We should exercise more."
+            }
+          ],
+          "answer": 1,
+          "explanation": "All these sentences are about ways to help protect the environment. As a reader, what information you get as a whole from these sentences is the main idea."
+        },
+        {
+          "questionNo": 6,
+          "question": "Which sentence best fits with these others?<br><span style='color: #1E90FF;'>Dolphins are mammals.<br>Dolphins breathe air.<br>Dolphins live in the ocean. <br></span> <img width='120px' src='./assests/images/question/6.png'>",
+          "options": [
+            {
+              "text": "Dolphins can jump out of the water."
+            },
+            {
+              "text": "Fish have gills."
+            },
+            {
+              "text": "Sharks have sharp teeth."
+            },
+            {
+              "text": "Whales are very large."
+            }
+          ],
+          "answer": 0,
+          "explanation": "This sentence is about dolphins, like the other sentences in the group."
+        },
+        {
+          "questionNo": 7,
+          "question": "Choose the correct spelling",
+          "options": [
+            {
+              "text": "Diswasher"
+            },
+            {
+              "text": "Dechwasher"
+            },
+            {
+              "text": "Dishwasher "
+            },
+            {
+              "text": "Dicwasher"
+            }
+          ],
+          "answer": 2,
+          "explanation": "The correct spelling is D-I-S-H-W-A-S-H-E-R. It is a machine for washing dirty dishes."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which sentence is expository?",
+          "options": [
+            {
+              "text": "Once upon a time, there was a magical forest."
+            },
+            {
+              "text": "I had a scary dream last night about monsters."
+            },
+            {
+              "text": "Birds have hollow bones that help them fly."
+            },
+            {
+              "text": "The princess lived in a tall tower."
+            }
+          ],
+          "answer": 2,
+          "explanation": "This paragraph explains a fact about birds, which is expository writing."
+        },
+        {
+          "questionNo": 9,
+          "question": "What type of writing describes characters and events of a personal experience?",
+          "options": [
+            {
+              "text": "Narrative"
+            },
+            {
+              "text": "Expository"
+            },
+            {
+              "text": "Instructional"
+            },
+            {
+              "text": "Factual"
+            }
+          ],
+          "answer": 0,
+          "explanation": "Narrative writing tells stories with characters and events."
+        },
+        {
+          "questionNo": 10,
+          "question": "Which is an example of expository writing?",
+          "options": [
+            {
+              "text": "The three bears lived in a cosy cottage."
+            },
+            {
+              "text": "I love playing soccer with my friends."
+            },
+            {
+              "text": "Water freezes at 0 degrees Celsius."
+            },
+            {
+              "text": "We had a great time at the fair."
+            }
+          ],
+          "answer": 2,
+          "explanation": "This sentence explains a scientific fact about water, which is expository."
+        },
+        {
+          "questionNo": 11,
+          "question": " What does the idiom “Like two peas in a pod” mean? ",
+          "options": [
+            {
+              "text": "They don’t get along at all. "
+            },
+            {
+              "text": "They are very similar and close. "
+            },
+            {
+              "text": "They are always arguing. "
+            },
+            {
+              "text": "They are very different from each other."
+            }
+          ],
+          "answer": 1,
+          "explanation": "The idiom 'Like two peas in a pod' means two people who are very alike and share a close bond, just like two peas that grow together in the same pod. The other options describe people who do not get along or are different, which is the opposite of the meaning of this idiom."
+        },
+        {
+          "questionNo": 12,
+          "question": "What type of writing would you use to explain how a car works? <br> <img width='120px' src='./assests/images/question/12.png'>",
+          "options": [
+            {
+              "text": "Narrative"
+            },
+            {
+              "text": "Expository"
+            },
+            {
+              "text": "Poetry"
+            },
+            {
+              "text": "Mystery"
+            }
+          ],
+          "answer": 1,
+          "explanation": "Expository writing is used to explain how things work or function. It gives additional information on that topic."
+        },
+        {
+          "questionNo": 13,
+          "question": "What is the main idea of these sentences?<span style='color: #1E90FF;'><br>Wash your hands often.<br>Cover your mouth when you cough.<br>Stay home when you're sick.<br>Eat healthy foods.</span>",
+          "options": [
+            {
+              "text": "How to have fun"
+            },
+            {
+              "text": "How to make friends"
+            },
+            {
+              "text": "How to stay healthy and prevent illness"
+            },
+            {
+              "text": "How to do well in school"
+            }
+          ],
+          "answer": 2,
+          "explanation": "All these sentences are about ways to stay healthy and avoid getting sick."
+        },
+        {
+          "questionNo": 14,
+          "question": "Which sentence should come last in a story about building a snowman? <br> <img width='120px' src='./assests/images/question/14.png'>",
+          "options": [
+            {
+              "text": "We took a picture with our finished snowman."
+            },
+            {
+              "text": "We found sticks for the arms."
+            },
+            {
+              "text": "We rolled a big snowball for the bottom."
+            },
+            {
+              "text": "We made a smaller ball for the head."
+            }
+          ],
+          "answer": 0,
+          "explanation": "Taking a picture usually comes last, after the snowman is completely built."
+        },
+        {
+          "questionNo": 15,
+          "question": "What kind of writing gives information about a topic?",
+          "options": [
+            {
+              "text": "Fantasy"
+            },
+            {
+              "text": "Expository"
+            },
+            {
+              "text": "Fairy tale"
+            },
+            {
+              "text": "Adventure"
+            }
+          ],
+          "answer": 1,
+          "explanation": "Expository writing provides information and explains things for a particular topic."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which sentence doesn't belong in a paragraph about the ocean? <br> <img width='120px' src='./assests/images/question/16.png'>",
+          "options": [
+            {
+              "text": "The ocean is home to many fish."
+            },
+            {
+              "text": "Waves crash on the shore."
+            },
+            {
+              "text": "The mountains are very tall."
+            },
+            {
+              "text": "Ships sail across the ocean."
+            }
+          ],
+          "answer": 2,
+          "explanation": "This sentence is about mountains, not the ocean, so it doesn't fit the main idea."
+        },
+        {
+          "questionNo": 17,
+          "question": "What is the main idea of this paragraph?<br><span style='color: #1E90FF;'>'The sun gives us light and warmth. It helps plants grow. Without the sun, life on Earth would not be possible.'</span>",
+          "options": [
+            {
+              "text": "The sun is very hot."
+            },
+            {
+              "text": "The sun is far away."
+            },
+            {
+              "text": "The sun is important for life on Earth."
+            },
+            {
+              "text": "The sun is yellow."
+            }
+          ],
+          "answer": 2,
+          "explanation": "The paragraph focuses on how the sun is essential for life on Earth."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which group of words should come first in a sentence? <br> <img width='120px' src='./assests/images/question/18.png'>",
+          "options": [
+            {
+              "text": "with colourful feathers"
+            },
+            {
+              "text": "The parrot"
+            },
+            {
+              "text": "loudly in its cage"
+            },
+            {
+              "text": "squawked"
+            }
+          ],
+          "answer": 1,
+          "explanation": "Sentences usually start with the subject, which is 'The parrot' in this case. The complete sentence is: 'The parrot with colourful feathers squawked loudly in its cage.'"
+        },
+        {
+          "questionNo": 19,
+          "question": "Which sentence is likely from an expository paragraph?",
+          "options": [
+            {
+              "text": "The brave knight fought the dragon."
+            },
+            {
+              "text": "I couldn't wait to open my presents!"
+            },
+            {
+              "text": "The heart pumps blood through the body."
+            },
+            {
+              "text": "Once upon a time, in a magical kingdom..."
+            }
+          ],
+          "answer": 2,
+          "explanation": "This sentence gives a fact about how the body works, which is expository."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which is an example of narrative writing?",
+          "options": [
+            {
+              "text": "How volcanoes erupt"
+            },
+            {
+              "text": "The water cycle"
+            },
+            {
+              "text": "My first day at school"
+            },
+            {
+              "text": "Why the sky is blue"
+            }
+          ],
+          "answer": 2,
+          "explanation": "This is a personal story about an experience, which is narrative writing."
+        }
+     
+
+      ]
+    }
+  ]
+}
